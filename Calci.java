@@ -24,7 +24,7 @@ public class Calci {
 			System.out.println("Invalid operation!");
 			return -1;
 		}
-		return a/b ;
+		return (a/b) ;
 	}
 	
 	public static void main(String[] args)
